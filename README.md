@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, part of the ED5215 course at IIT Madras, investigates a priority-based decentralized planner for multi-robot systems.
+This project, part of the ED5215 course(Jan-May,2023) at IIT Madras, investigates a priority-based decentralized planner for multi-robot systems.
 
 The primary objectives are-
 
